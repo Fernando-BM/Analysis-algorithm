@@ -1,0 +1,10 @@
+Dijkstra de A a B es: 
+A, B, 
+Dijkstra de A a C es: 
+A, C, 
+Dijkstra de A a D es: 
+A, B, D, 
+Dijkstra de A a E es: 
+A, B, E, 
+Dijkstra de A a F es: 
+A, B, E, F, 
